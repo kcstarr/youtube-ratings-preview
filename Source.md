@@ -1,0 +1,1 @@
+https://addons.mozilla.org/en-US/firefox/files/browse/206798/file/resources/youtube-tm-ratings-preview/lib/main.js#top
